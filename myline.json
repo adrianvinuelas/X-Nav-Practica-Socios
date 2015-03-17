@@ -1,0 +1,26 @@
+{
+	"comentarios" :[
+	{
+		"Autor": "Adrian Viñuelas",
+		"Avatar": "http://imageserver.moviepilot.com/the-rock-wwe-champion-hd-wallpapers-jpg-wait-why-is-the-rock-the-coolest-guy-of-all-time.jpeg?width=1201&height=1194",
+		"Titulo": "Primer comentario de Socios",
+		"Contenido":"Este es el primer comentario que pongo en socios", 
+		"Fecha": "09/03/2015"
+	},
+
+	{
+		"Autor": "Adrian Viñuelas",
+		"Avatar": "http://imageserver.moviepilot.com/the-rock-wwe-champion-hd-wallpapers-jpg-wait-why-is-the-rock-the-coolest-guy-of-all-time.jpeg?width=1201&height=1194",
+		"Titulo": "Sigueme en SOCIOS",
+		"Contenido":"Si me sigues podrás ganar un fantástico coche", 
+		"Fecha": "09/03/2015"
+	},
+
+	{
+		"Autor": "Adrian Viñuelas",
+		"Avatar": "http://imageserver.moviepilot.com/the-rock-wwe-champion-hd-wallpapers-jpg-wait-why-is-the-rock-the-coolest-guy-of-all-time.jpeg?width=1201&height=1194",
+		"Titulo": "Móvil nuevo",
+		"Contenido":"He conseguido comprarme el móvil nuevo que quería!! por fin!!", 
+		"Fecha": "09/03/2015"
+	}]
+}
